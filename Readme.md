@@ -1,6 +1,6 @@
-**Mario Fernando Castañeda Perez** - 7690-20-145
-**William Josue Carrillo Sandoval** - 7690-21-3740
-**Marco Amed Marroquin Quiñonez** - 7690 -09-7104
+**Mario Fernando Castañeda Perez - 7690-20-145**
+**William Josue Carrillo Sandoval - 7690-21-3740**
+**Marco Amed Marroquin Quiñonez - 7690 -09-7104***
 # TAREA 4
 ## Programacion 3
 
