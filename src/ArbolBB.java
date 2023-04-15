@@ -36,6 +36,7 @@ public class ArbolBB {
 
     private Nodo eliminar(Nodo nodo, int valor) {
         if (nodo == null) {
+            System.out.println("Valor no encontrado");
             return null;
         }
 
@@ -53,6 +54,7 @@ public class ArbolBB {
             Nodo sucesor = obtenerSucesor(nodo.der);
             nodo.valor = sucesor.valor;
             nodo.der = eliminar(nodo.der, sucesor.valor);
+
         }
 
         return nodo;
