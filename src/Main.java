@@ -67,4 +67,13 @@ public class Main {
         System.out.println();
 
     }
+
+    public static void mostrarMenu() {
+        System.out.println("--- MENÚ ---");
+        System.out.println("1. Arbol Binario de Busqueda");
+        System.out.println("2. Árbol BB AVL ");
+        System.out.println("3. Salir ");
+        System.out.print("Seleccione una opción: ");
+    }
+
 }
