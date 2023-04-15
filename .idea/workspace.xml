@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6aab459f-521a-402b-934c-3fe8163ec180" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Progra3_Tarea4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Progra3_Tarea4/ArbolBB$Nodo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Progra3_Tarea4/ArbolBB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Progra3_Tarea4/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Progra3_Tarea4/Menu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArbolBB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArbolBB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ArbolBBAVL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArbolBBAVL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,19 +42,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Fernando/IdeaProjects/Progra3_Tarea4"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Fernando/IdeaProjects/Progra3_Tarea4&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Menu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Menu" />
       <module name="Progra3_Tarea4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Progra3_Tarea4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Progra3_Tarea4" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
