@@ -1,9 +1,11 @@
 **Mario Fernando Castañeda Perez** - 7690-20-145
 **William Josue Carrillo Sandoval** - 7690-21-3740
 **Marco Amed Marroquin Quiñonez** - 7690 -09-7104
-![Logo de la universidad](/images/Logo.png)
 # TAREA 4
 ## Programacion 3
+
+
+![Logo de la universidad](/images/Logo.png)
 
 A continuación podra encontrar una aplicacion que tiene un arbol AVL y un arbol BBAVL con el que podra ingresar datos, buscar, eliminar y crear uno nuevo. 
 (si no se llegaran a cargar las imagenes, estan en una carpeta llamada "images")
